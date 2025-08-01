@@ -1,0 +1,20 @@
+{
+  "beauty_title": "пер. Дятлова",
+  "title": "Перевал Дятлова",
+  "add_time": "2023-09-22 13:18:13",
+  "user": {
+    "email": "encoding@example.com",
+    "fam": "Петров",
+    "name": "Сергей",
+    "phone": "+79991234567"
+  },
+  "coords": {
+    "latitude": 61.7905,
+    "longitude": 59.1256,
+    "height": 1200
+  },
+  "level": {
+    "winter": "1A"
+  },
+  "invalid_field": "Это поле содержит невалидные символы: \xEF\xBB\xBF"
+}

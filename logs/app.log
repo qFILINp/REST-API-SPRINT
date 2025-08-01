@@ -1,0 +1,7 @@
+2025-08-01 22:00:07,875 INFO: Incoming request at 2025-08-01 17:00:07.875022+00:00 [in C:\Users\1\PycharmProjects\REST_API_SPRINT\app.py:36]
+2025-08-01 22:00:07,921 INFO: Database operation result: {'status': 200, 'message': 'Перевал успешно добавлен', 'id': 14} [in C:\Users\1\PycharmProjects\REST_API_SPRINT\app.py:75]
+2025-08-01 22:00:07,922 INFO: Successfully added pereval with ID 14 [in C:\Users\1\PycharmProjects\REST_API_SPRINT\app.py:84]
+2025-08-01 22:00:07,922 INFO: Database connection closed [in C:\Users\1\PycharmProjects\REST_API_SPRINT\app.py:123]
+2025-08-01 22:00:13,157 INFO: Incoming request at 2025-08-01 17:00:13.157849+00:00 [in C:\Users\1\PycharmProjects\REST_API_SPRINT\app.py:36]
+2025-08-01 22:00:13,188 ERROR: JSON decode error: 400 Bad Request: Failed to decode JSON object: Invalid \escape: line 1 column 395 (char 394) [in C:\Users\1\PycharmProjects\REST_API_SPRINT\app.py:59]
+2025-08-01 22:00:13,189 INFO: Database connection closed [in C:\Users\1\PycharmProjects\REST_API_SPRINT\app.py:123]

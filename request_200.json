@@ -1,0 +1,21 @@
+{
+  "beauty_title": "пер. Дятлова",
+  "title": "Перевал Дятлова",
+  "other_titles": "Русские символы: привет мир!",
+  "add_time": "2023-09-22 13:18:13",
+  "user": {
+    "email": "russian@example.com",
+    "fam": "Иванов",
+    "name": "Иван",
+    "otc": "Иванович",
+    "phone": "+79991234567"
+  },
+  "coords": {
+    "latitude": 55.7558,
+    "longitude": 37.6176,
+    "height": 100
+  },
+  "level": {
+    "winter": "1A"
+  }
+}
